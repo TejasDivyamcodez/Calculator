@@ -26,3 +26,4 @@ elif op == "**":
     print(f'Result:\n {user_input_1} ** {user_input_2} = {user_input_1 ** user_input_2}')
 else:
     print(f'[Error]')
+    
